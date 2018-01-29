@@ -1,6 +1,8 @@
 mqtt-status-indicator.js
 ====
 
+mqtt-status-indicator displays the statistics of local MQTT broker using redis-ssd-1306.py.
+
 Setup
 ----
 
