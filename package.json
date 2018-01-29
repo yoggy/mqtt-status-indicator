@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-status-indicator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt-status-indicator.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yoggy/mqtt-status-indicator.git"
+  },
+  "author": "yoggy <yoggy0@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/yoggy/mqtt-status-indicator/",
+  "devDependencies": {
+    "mqtt": "^2.15.1",
+    "redis": "^2.8.0"
+  }
+}
